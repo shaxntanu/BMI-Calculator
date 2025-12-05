@@ -7,7 +7,7 @@ A basic console-based Body Mass Index (BMI) calculator implemented in C. This pr
 - Input body weight and height in either metric or imperial units.
 - Calculates BMI using the correct formula for the selected system.
 - Provides BMI category classification based on WHO standards:
-  - Severely underweight
+  - Severely underweight 
   - Underweight
   - Normal Weight
   - Overweight
